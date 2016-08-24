@@ -1,9 +1,9 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: bruce blog
+subtitle: share ideas and stories
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+description: hard to define what kind of life is most beautiful.
+creator: <a href="mailto:ljhjay1@163.com?subject=something to talk&body=hi bruce">@bruce</a>
 
 url: "http://vno.onevcat.com"
 
@@ -25,7 +25,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: old site, description: My Projects, url: 'http://new.brusport.com/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -40,11 +40,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: ljhjay
+#    github: onevcat
+#    twitter: onevcat
+#    gplus: 107108267983477358170
+    mail: ljhjay1@163.com
 
 # Google Analytics
 ga:
